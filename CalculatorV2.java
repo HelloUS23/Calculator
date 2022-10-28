@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class CalculatorV2 //Change this to CalculatorV2 in VS Code
+public class CalculatorV2 //Change this to Main in online running program linked in the ReadME
 {
     public static void main(String[] args)
     {

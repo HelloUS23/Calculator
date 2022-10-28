@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class CalculatorV1
+public class CalculatorV1 //Change this to Main in online running program linked in the ReadME
 {
     public static void main(String[] args) 
     {
@@ -50,4 +50,4 @@ public class CalculatorV1
                 System.out.println("The overall round of " + num2 + " is: " + rounded2);
                 System.out.println("\n----------------------------------------------------------\n");
     }
-}
+} 
