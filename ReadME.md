@@ -21,3 +21,7 @@
 - Updated the ReadME
 - Added CalculatorV3
 - Added comments to `CalculatorV1` and `CalculatorV2`
+
+## Update 3
+- Updated the ReadME
+- Updated the main functions of CalculatorV3
